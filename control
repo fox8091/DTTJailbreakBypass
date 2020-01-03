@@ -1,0 +1,9 @@
+Package: pm.n7.dttbypass
+Name: DTTJailbreakBypass
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bypass jailbreak detection for any app using DTTJailbreakDetection
+Maintainer: Bailey Fox
+Author: Bailey Fox
+Section: Tweaks
